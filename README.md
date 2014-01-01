@@ -10,6 +10,7 @@ Step 4. Use KMeans to cluster the movie data.
 
 Initial Package is to do word count without normalization. In this way, kmeans algorithm will converge slowly. Not recommended.
 
+------------------------------------
 Movie data format:
 
 product/productId: B0071AD95K
